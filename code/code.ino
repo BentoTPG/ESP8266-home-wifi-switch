@@ -1,15 +1,15 @@
-#define BLYNK_TEMPLATE_ID "TMPL66K84Tsa1"
-#define BLYNK_TEMPLATE_NAME "switch"
-#define BLYNK_AUTH_TOKEN "vFoE-oqxzViv2IR94SuZBUnNJGNUAbfJ"
+#define BLYNK_TEMPLATE_ID " " //add your template ID
+#define BLYNK_TEMPLATE_NAME " " // add your template name
+#define BLYNK_AUTH_TOKEN " " //add your blynk token
 #include <BlynkSimpleEsp8266.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266WiFi.h>
 
 #define Relay1 D1 // Define the pin for Relay1
 
-char auth[] = "vFoE-oqxzViv2IR94SuZBUnNJGNUAbfJ";
-char ssid[] = "3BB-DECHA_2.4GHz";
-char pass[] = "146395DE";
+char auth[] = " "; //add your blynk token
+char ssid[] = " "; //add your WIFI name
+char pass[] = " "; //add your WIFI password
 
 WidgetLED Relay1Blynk(V10);
 
