@@ -7,3 +7,4 @@
 - AC wire and plug
 - wire connector
 # wiring
+(Not finish yet)
