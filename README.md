@@ -5,3 +5,4 @@
 - ac outlet
 - toggle switch for turn it on-off if didn't acces to smartphone
 - AC wire and plug
+- wire connector
