@@ -1,4 +1,4 @@
-Things you need
+# Things you need
 - ESP&8266
 - relay module
 - power amplifier (I use Hi-Link HLK-PM01)
