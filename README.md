@@ -1,5 +1,5 @@
 # Things you need
-- ESP&8266
+- ESP8266
 - relay module
 - power amplifier (I use Hi-Link HLK-PM01)
 - ac outlet
