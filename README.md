@@ -39,10 +39,9 @@ I connect left pin of both side (side is the sided where the pin protrudes)
 4. add switch and LED and create datastream
 5. add V1 virtual pin and v10 virtual pin
 6. set switch data to V1 and LED data to V10
-7. after you done all of it go to this page and copy name,template and token
+7. after you done all of it go to this page and copy name,template and token(If it didn't have token add new device in your template first)
 ![Nametoken](image/nametoken.png)
 # Coding
-1.Set up esp8266 and blynk
-connect esp8266 to 
-writing code
+1. Set up esp8266 and blynk library
+2. connect esp8266 to computer and write the code
 [View the script](code/code.ino)
