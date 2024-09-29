@@ -35,7 +35,12 @@ I connect left pin of both side (side is the sided where the pin protrudes)
 2. go to developer zone and add template 
 ![make_template](image/Make_template.png)
 3. Create template choose hardware:ESP32 and connection type:WIFI
-![make_template](image/Create_template.png)
+![Create_template](image/Create_template.png)
+4. add switch and LED and create datastream
+5. add V1 virtual pin and v10 virtual pin
+6. set switch data to V1 and LED data to V10
+7. after you dona all of it
+![Nametoken](image/nametoken.png)
 # Coding
 1.Set up esp8266 and blynk
 connect esp8266 to 
