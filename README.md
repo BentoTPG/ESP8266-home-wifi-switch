@@ -34,7 +34,8 @@ I connect left pin of both side (side is the sided where the pin protrudes)
 1. login or sign-up blynk
 2. go to developer zone and add template 
 ![make_template](image/Make_template.png)
-
+3. Create template choose hardware:ESP32 and connection type:WIFI
+![make_template](image/Create_template.png)
 # Coding
 1.Set up esp8266 and blynk
 connect esp8266 to 
