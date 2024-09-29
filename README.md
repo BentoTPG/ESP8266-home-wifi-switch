@@ -17,12 +17,12 @@ AC connect
 | component       | hot wire    | neutral wire | ground wire        |
 |-----------------|-----------------|-----------------  |----------------|
 |   HLK-PM01      | right AC        | left AC           | -              |
-| relay module    | Middle input    | -                 | left input     |
-| AC outlet       | left from the back of outlet     | right from the back of outlet       |    lower center       |
+| relay module    | Middle input of relay side    | -                 | -   |
+| AC outlet       | left from the back of outlet to relay module in left input of relay side             | right from the back of outlet        |    lower center       |
 | AC plug       | right from the back of outlet     | left from the back of outlet       |     lower center      |
 
 ESP8266 connect
-| component       | red wire        | ground wire     | control wire |
+| component       | red wire        | blue/ground wire     | green/control wire |
 |-----------------|-----------------|-----------------|--------------|
 | relay module    | 3v3 pin to vcc pin   | GND to GND | D1 pin to in pin|
 | momentary switch | -              | -               | D2 to GND    |
@@ -39,10 +39,12 @@ I connect left pin of both side (side is the sided where the pin protrudes)
 4. add switch and LED and create datastream
 5. add V1 virtual pin and v10 virtual pin
 6. set switch data to V1 and LED data to V10
-7. after you dona all of it
+7. after you done all of it go to this page and copy name,template and token(If it didn't have token add new device in your template first)
+8. download blynk in your phone and log-in you account
 ![Nametoken](image/nametoken.png)
 # Coding
-1.Set up esp8266 and blynk
-connect esp8266 to 
-writing code
+1. Set up esp8266 and blynk library
+2. connect esp8266 to computer and write the code
 [View the script](code/code.ino)
+# let's test it
+Turn switch on-off from you phone and done
