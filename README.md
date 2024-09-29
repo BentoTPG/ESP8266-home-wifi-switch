@@ -11,7 +11,7 @@
 - micro usb wire
 # Wiring
 connect it like this
-![Diagram](image/circult_diagramV.2.jpg)
+![Diagram](image/circult_diagram.jpg)
 AC connect
 (I use type-O ac plug)
 | component       | hot wire    | neutral wire | ground wire        |
