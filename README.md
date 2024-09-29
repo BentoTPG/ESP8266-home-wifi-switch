@@ -6,6 +6,7 @@
 - toggle switch for turn it on-off if didn't acces to smartphone
 - AC wire and plug
 - wire connector
+- Ribbon cable for connect board to relay module
 # wiring
-(Not finish yet)
+connect it like this
 ![Diagram](image/circult_diagram.jpg)
