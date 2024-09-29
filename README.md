@@ -7,7 +7,7 @@
 - AC wire and plug
 - wire connector
 - Ribbon cable for connect board to relay module
-# wiring
+# Wiring
 connect it like this
 ![Diagram](image/circult_diagram.jpg)
 AC connect
@@ -25,3 +25,5 @@ ESP8266 connect
 | relay module    | 3v3 pin to vcc pin   | GND to GND | D1 pin to in pin|
 | momentary switch | -              | -               | D2 to GND    |
 | HLK-PM01        | +Vo to Vin pin  | -Vo to GND pin  | -            |
+
+#Coding
