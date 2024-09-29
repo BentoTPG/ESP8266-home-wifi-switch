@@ -8,4 +8,4 @@
 - wire connector
 # wiring
 (Not finish yet)
-![Alt text]("D:\ESP8266-home-wifi-switch\image\circult_diagram.jpg")
+![Alt text]("image\circult_diagram.jpg")
