@@ -17,8 +17,8 @@ AC connect
 | component       | hot wire    | neutral wire | ground wire        |
 |-----------------|-----------------|-----------------  |----------------|
 |   HLK-PM01      | right AC        | left AC           | -              |
-| relay module    | Middle input    | -                 | left input     |
-| AC outlet       | left from the back of outlet     | right from the back of outlet       |    lower center       |
+| relay module    | Middle input of relay side    | -                 | -   |
+| AC outlet       | left from the back of outlet to relay module in left input of relay side             | right from the back of outlet        |    lower center       |
 | AC plug       | right from the back of outlet     | left from the back of outlet       |     lower center      |
 
 ESP8266 connect
