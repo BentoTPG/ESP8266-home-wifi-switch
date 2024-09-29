@@ -26,4 +26,7 @@ ESP8266 connect
 | momentary switch | -              | -               | D2 to GND    |
 | HLK-PM01        | +Vo to Vin pin  | -Vo to GND pin  | -            |
 
+Momentary switch connect
+I connect left pin of both side (side is the sided where the pin protrudes)
 # Coding
+[View the script](code/code.ino)
