@@ -7,6 +7,8 @@
 - AC wire and plug
 - wire connector
 - Ribbon cable for connect board to relay module
+- computer with arduino IDE software
+- micro usb wire
 # Wiring
 connect it like this
 ![Diagram](image/circult_diagram.jpg)
@@ -28,5 +30,10 @@ ESP8266 connect
 
 Momentary switch connect
 I connect left pin of both side (side is the sided where the pin protrudes)
+# Blynk Setup
+
 # Coding
+1.Set up esp8266 and blynk
+connect esp8266 to 
+writing code
 [View the script](code/code.ino)
