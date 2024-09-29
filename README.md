@@ -8,4 +8,4 @@
 - wire connector
 # wiring
 (Not finish yet)
-![Alt text](image\circult_diagram.jpg)
+![Diagram](image\circult_diagram.jpg)
