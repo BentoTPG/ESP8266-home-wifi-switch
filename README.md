@@ -12,9 +12,16 @@ connect it like this
 ![Diagram](image/circult_diagram.jpg)
 AC connect
 (I use type-O ac plug)
-| component       | hot wire    | neutral wire | ground         |
+| component       | hot wire    | neutral wire | ground wire        |
 |-----------------|-----------------|-----------------  |----------------|
 |   HLK-PM01      | right AC        | left AC           | -              |
 | relay module    | Middle input    | -                 | left input     |
 | AC outlet       | left from the back of outlet     | right from the back of outlet       |    lower center       |
 | AC plug       | right from the back of outlet     | left from the back of outlet       |     lower center      |
+
+ESP8266 connect
+| component       | red wire        | ground wire     | control wire |
+|-----------------|-----------------|-----------------|--------------|
+| relay module    | 3v3 pin to vcc pin   | GND to GND | D1 pin to in pin|
+| momentary switch | -              | -               | D2 to GND    |
+| HLK-PM01        | +Vo to Vin pin  | -Vo to GND pin  | -            |
