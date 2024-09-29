@@ -22,7 +22,7 @@ AC connect
 | AC plug       | right from the back of outlet     | left from the back of outlet       |     lower center      |
 
 ESP8266 connect
-| component       | red wire        | ground wire     | control wire |
+| component       | red wire        | blue/ground wire     | green/control wire |
 |-----------------|-----------------|-----------------|--------------|
 | relay module    | 3v3 pin to vcc pin   | GND to GND | D1 pin to in pin|
 | momentary switch | -              | -               | D2 to GND    |
